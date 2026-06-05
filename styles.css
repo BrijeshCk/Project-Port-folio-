@@ -19,7 +19,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: var(--text-dark);
-    background-color: var(--white);
+    background-color: var(--black);
 }
 
 .container {
@@ -30,7 +30,7 @@ body {
 
 /* Navigation */
 .navbar {
-    background-color: var(--white);
+    background-color: var(--black);
     box-shadow: var(--shadow);
     position: sticky;
     top: 0;
@@ -90,7 +90,7 @@ body {
 
 .cta-button {
     display: inline-block;
-    background-color: var(--white);
+    background-color: var(--black);
     color: var(--primary-color);
     padding: 12px 30px;
     border-radius: 50px;
@@ -145,7 +145,7 @@ body {
 }
 
 .project-card {
-    background-color: var(--white);
+    background-color: var(--black);
     border-radius: 10px;
     box-shadow: var(--shadow);
     overflow: hidden;
